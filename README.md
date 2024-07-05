@@ -1,8 +1,6 @@
 ![Repo Size](https://img.shields.io/github/repo-size/ngnhthuong/Helmet_safety_detection)
 ![count](https://img.shields.io/github/languages/count/ngnhthuong/Helmet_safety_detection)
 
-<img src="./client/src/assets/images/longlogo.png" alt="logo"/> 
-
 ## Safety Helmet Detection
 
 This project using Yolov10 pretrain for detection helmet, person and head 
